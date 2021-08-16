@@ -1,8 +1,4 @@
-This project was done by:
-Tal Avraham
-Omer Hagage
-Fidaa naaffa
-Yuval Ussishkin
+This project was done by: Tal Avraham, Omer Hagage, Fidaa naaffa, Yuval Ussishkin
 
 File List :
 classifier.py - Runs the predictions for both the crime labels and the crimes.
