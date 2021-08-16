@@ -6,5 +6,5 @@ _jclusters.json - Contains the clusters for which we use to predict the crimes.
 Preprocessing.py - Handles all of the preprocessing.
 
 Please see pdf for further information about the project.
-Link: https://github.cs.huji.ac.il/tal-avr/IML-Hackathon/blob/master/task2/project.pdf
+Link: https://github.com/talavr1112/IML-HACKATHON/blob/main/task2/project.pdf
 
